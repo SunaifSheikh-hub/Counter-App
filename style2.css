@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    margin: 10%;
+    font-size: 200%;
+}
+
+<<<<<<< Updated upstream:style2.css
+.heading {
+    text-align: center;
+    
+=======
+.footer {
+    justify-content: center;
+    margin-top: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-bottom: 10px;
+    
+}
+
+.heading {
+    text-align: center;
+    background-color: lightblue;
+>>>>>>> Stashed changes:style.css
+}
